@@ -13,4 +13,7 @@ Contents:
 
    directory
    itemlists
+   logfiles
+   datatable
    running
+   faq
