@@ -6,6 +6,7 @@ list files found in the experiment directory (see :ref:`directory_structure`).
 This is done every time the experiment is started. Thus it is important to use
 the same set of item list files for all subjects in a study.
 
+
 Item list files
 ---------------
 Item list files are ordinary text files (``.txt``) that can be edited with any
@@ -24,7 +25,9 @@ Example::
 
 Item list definition
 --------------------
-The item list text files define one item per line. Example::
+The item list text files define one item per line.
+
+Example::
 
   write invoices
   prepare meeting
