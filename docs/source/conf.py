@@ -50,7 +50,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'Selfinfiltration Experiment'
 copyright = u'2016, Neurolab/UOS'
-author = u'Neurolab/UOS'
+author = u'Benjamin Wulff'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -174,7 +174,9 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #
-# html_sidebars = {}
+html_sidebars = {
+    '**': ['globaltoc.html', 'searchbox.html'],
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
