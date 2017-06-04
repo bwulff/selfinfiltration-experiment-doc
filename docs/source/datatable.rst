@@ -1,5 +1,5 @@
-Understanding the Data Tables
-=============================
+Data Tables
+===========
 
 
 Item List Table
