@@ -12,7 +12,7 @@ Selfinfiltration Experiment
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    index
    introduction
