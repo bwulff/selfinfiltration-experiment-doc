@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Selfinfiltration Experiment'
-copyright = u'2016, Neurolab/UOS'
+copyright = u'2016, Motivation Lab/UOS'
 author = u'Benjamin Wulff'
 
 # The version info for the project you're documenting, acts as replacement for
